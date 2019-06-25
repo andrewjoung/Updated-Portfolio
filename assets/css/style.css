@@ -134,6 +134,9 @@ hr {
     background-color: #303030;
 }
 
+#project3{
+    height: 305px;
+}
 #secondProjectPhoto {
     max-width: 540px;
     /* box-shadow: 0 -8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)!important; */
@@ -153,4 +156,14 @@ hr {
 .btn[class*=btn-outline-] {
     padding-top: 0.5rem;
     padding-bottom: .5rem;
+}
+
+#footer {
+    text-align: center;
+    padding-top: 40px;
+    background-color: #345189;
+}
+
+#contactHeader {
+    color: white;
 }
